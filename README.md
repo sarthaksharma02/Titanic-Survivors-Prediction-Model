@@ -27,7 +27,7 @@ As a part of this project we need to follow several specific steps in order to c
                                      - KNN Classifier Algorithm
                                      - Support Vector Machine Classification Algorithm
                                      - XGBOOST Algorithm
-                                     - Random Forest Algorithm
+                                     - Naive Bayes Algorithm
 - Deploying the Machine Learning Model: In this step we would save the final maximum accuracy of this machine learning model and then we                                             will develop a new Dataframe which would present the output of the predictions of Passengers who                                             Survived or not Survived corresponding to their Passenger ID.
 
-In these specified steps we will develop our Model which can be used in any web or mobile application when needed.
+In these specified steps we will develop our Model, which can be used in any web or mobile application.

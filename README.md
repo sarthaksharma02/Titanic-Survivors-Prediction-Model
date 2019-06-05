@@ -25,8 +25,8 @@ As a part of this project we need to follow several specific steps in order to c
 - Data Visualization: As we know that the collection of meaningful and well structured data is visually represented in order to give a                             better insight out of the data which is not possible in text format. So we use various plots from Matplotlib library                         and also from  the Seaborn library which better represent our data to understand it precisely.
 - Developing Machine Learning Model: Now after all these steps we would develop some machine learning models using various algorithms such as: 
                                      - KNN Classifier Algorithm
-                                     - Support Vector Machine Classification Algorithm
-                                     - XGBOOST Algorithm
+                                     - Linear Support Vector Machine Classification Algorithm
+                                     - Decision Tree Classifier Algorithm
                                      - Naive Bayes Algorithm
 - Deploying the Machine Learning Model: In this step we would save the final maximum accuracy of this machine learning model and then we                                             will develop a new Dataframe which would present the output of the predictions of Passengers who                                             Survived or not Survived corresponding to their Passenger ID.
 
